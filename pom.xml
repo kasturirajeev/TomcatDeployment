@@ -7,8 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>MavenWebProject Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  
-	<!-- Demo on Github Webhooks with jenkins-->
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
